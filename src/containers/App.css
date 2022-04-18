@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'HANDYHANDY';
+  font-style: normal;
+  font-weight: normal;
+  src: local('HANDYHANDY'), url('HANDYHANDY.woff') format('woff');
+  }
+  
+  h1 {
+    font-family: 'HANDYHANDY';
+    font-weight: 200;
+    font-size: 3em;
+    color: rgb(74, 112, 164);
+  }
