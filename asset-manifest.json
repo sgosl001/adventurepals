@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/adventurepals/static/css/main.edd64cfe.css",
-    "main.js": "/adventurepals/static/js/main.0ce0c386.js",
+    "main.js": "/adventurepals/static/js/main.9944665c.js",
     "static/js/787.4960e363.chunk.js": "/adventurepals/static/js/787.4960e363.chunk.js",
     "static/media/HANDYHANDY.woff": "/adventurepals/static/media/HANDYHANDY.ac0fb57fd65badcfebac.woff",
     "index.html": "/adventurepals/index.html",
     "main.edd64cfe.css.map": "/adventurepals/static/css/main.edd64cfe.css.map",
-    "main.0ce0c386.js.map": "/adventurepals/static/js/main.0ce0c386.js.map",
+    "main.9944665c.js.map": "/adventurepals/static/js/main.9944665c.js.map",
     "787.4960e363.chunk.js.map": "/adventurepals/static/js/787.4960e363.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.edd64cfe.css",
-    "static/js/main.0ce0c386.js"
+    "static/js/main.9944665c.js"
   ]
 }
